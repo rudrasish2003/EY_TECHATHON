@@ -13,6 +13,7 @@ app.use(express.json());
 const vehiclesRoutes = require('./routes/vehicles');
 const telematicsRoutes = require('./routes/telematics');
 const maintenanceRoutes = require('./routes/maintenance');
+const dashboardRoutes = require('./routes/dashboard');
 
 // Basic health check route
 app.get('/', (req, res) => {

@@ -36,6 +36,12 @@ class MasterAgent {
     
     this.activityLog.push(logEntry);
     
+    // UEBA monitoring
+    const uebaResult = uebaService.monitorActivity(logEntry);
+    if (!uebaResult.isNormal) {
+      console.log(`⚠️  UEBA: Anomaly detected for ${agentName} - Risk Score: ${uebaResult.riskScore}`);
+    }
+    
     // Keep only last 1000 logs in memory
     if (this.activityLog.length > 1000) {
       this.activityLog.shift();
