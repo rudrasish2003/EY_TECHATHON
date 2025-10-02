@@ -1,0 +1,172 @@
+[
+  {
+    "vehicleId": "VEH001",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 27175,
+    "sensors": {
+      "engineTemp": 95.6,
+      "oilPressure": 81.5,
+      "brakeHealth": 87.2,
+      "batteryVoltage": 13.03,
+      "tirePressure": 32.8,
+      "fuelLevel": 27,
+      "rpm": 1747,
+      "speed": 27
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH002",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 27915,
+    "sensors": {
+      "engineTemp": 93.8,
+      "oilPressure": 88.5,
+      "brakeHealth": 87.6,
+      "batteryVoltage": 12.42,
+      "tirePressure": 33.6,
+      "fuelLevel": 27.6,
+      "rpm": 2609,
+      "speed": 83
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH003",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 22042,
+    "sensors": {
+      "engineTemp": 93.7,
+      "oilPressure": 85.9,
+      "brakeHealth": 85.2,
+      "batteryVoltage": 12.89,
+      "tirePressure": 34.5,
+      "fuelLevel": 54.6,
+      "rpm": 1813,
+      "speed": 31
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH004",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 19990,
+    "sensors": {
+      "engineTemp": 96.1,
+      "oilPressure": 83.1,
+      "brakeHealth": 91.1,
+      "batteryVoltage": 12.55,
+      "tirePressure": 33.6,
+      "fuelLevel": 61,
+      "rpm": 2523,
+      "speed": 95
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH005",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 19487,
+    "sensors": {
+      "engineTemp": 96.1,
+      "oilPressure": 78.5,
+      "brakeHealth": 87.1,
+      "batteryVoltage": 12.68,
+      "tirePressure": 33.4,
+      "fuelLevel": 26,
+      "rpm": 2837,
+      "speed": 3
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH006",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 18409,
+    "sensors": {
+      "engineTemp": 97.2,
+      "oilPressure": 79.4,
+      "brakeHealth": 90.4,
+      "batteryVoltage": 12.66,
+      "tirePressure": 32.1,
+      "fuelLevel": 39.7,
+      "rpm": 1893,
+      "speed": 63
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH007",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 17932,
+    "sensors": {
+      "engineTemp": 88.2,
+      "oilPressure": 85.6,
+      "brakeHealth": 92,
+      "batteryVoltage": 12.55,
+      "tirePressure": 33.1,
+      "fuelLevel": 45.4,
+      "rpm": 1290,
+      "speed": 91
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH008",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 17002,
+    "sensors": {
+      "engineTemp": 89,
+      "oilPressure": 91.6,
+      "brakeHealth": 85.4,
+      "batteryVoltage": 12.37,
+      "tirePressure": 33.9,
+      "fuelLevel": 15.5,
+      "rpm": 2742,
+      "speed": 58
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH009",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 10692,
+    "sensors": {
+      "engineTemp": 94.4,
+      "oilPressure": 86.1,
+      "brakeHealth": 94.4,
+      "batteryVoltage": 13.14,
+      "tirePressure": 35.1,
+      "fuelLevel": 90.6,
+      "rpm": 2935,
+      "speed": 67
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  },
+  {
+    "vehicleId": "VEH010",
+    "timestamp": "2025-10-02T06:45:15.284Z",
+    "mileage": 8700,
+    "sensors": {
+      "engineTemp": 91.5,
+      "oilPressure": 92.1,
+      "brakeHealth": 91.3,
+      "batteryVoltage": 12.49,
+      "tirePressure": 33.5,
+      "fuelLevel": 14.3,
+      "rpm": 1772,
+      "speed": 94
+    },
+    "diagnosticCodes": [],
+    "alerts": []
+  }
+]
